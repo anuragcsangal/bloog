@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+# vendor/
+go.work
+
+# For mac
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
